@@ -28,7 +28,8 @@ your-repo/
 │   └── ...
 │
 ├── README.md
-└── ...
+└── .gitignore
+└──...
 ```
 
 Refer to the image below:
