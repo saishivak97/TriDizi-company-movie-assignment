@@ -1,0 +1,17 @@
+.movies-list-container{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    height:75vh;  
+}
+
+.scrolling {
+    overflow:scroll;
+}
+
+.pagination {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
