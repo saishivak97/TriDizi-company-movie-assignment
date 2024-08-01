@@ -31,6 +31,10 @@ your-repo/
 └── ...
 ```
 
+Refer to the image below:
+    ![movieappnewfinalcompressed](https://github.com/user-attachments/assets/720441dd-7040-4cfa-a7c6-04fb66fdbde5)
+
+
 ## Backend (Express)
 
 ### Description
